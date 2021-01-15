@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Download Image</string>
+    <string name="button_download">Скачать изображение</string>
+    <string name="image_description">описание изображения</string>
+</resources>
